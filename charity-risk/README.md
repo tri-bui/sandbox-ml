@@ -1,1 +1,0 @@
-# Alphabet Soup's Charity Risk Assessment
